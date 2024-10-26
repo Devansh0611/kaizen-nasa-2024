@@ -2,8 +2,9 @@
 ### the working prototype is app7v2.py
 **UrbanSphere** is a project developed for a hackathon that focuses on mapping community assets in India to foster engagement and sustainable growth. Our primary goal is to visualize critical data related to environmental and community resources through interactive choropleth maps.
 
-<img src="dash3.jpeg" alt="Dashboard" width="40" style="vertical-align: middle;"/> Project Overview
+<img src="dash3.jpeg" alt="Dashboard" style="vertical-align: middle;"/>
 
+##Project Overview
 In this project, we are creating five choropleth maps that represent the following datasets for each state in India:
 - **Air Quality**
 - **Safe Drinking Water**
