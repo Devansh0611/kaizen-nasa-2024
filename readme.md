@@ -1,19 +1,17 @@
 # <img src="logo.png" alt="UrbanSphere Logo" width="40" style="vertical-align: middle;"/> UrbanSphere
-
+### the working prototype is app7v2.py
 **UrbanSphere** is a project developed for a hackathon that focuses on mapping community assets in India to foster engagement and sustainable growth. Our primary goal is to visualize critical data related to environmental and community resources through interactive choropleth maps.
 
-# <img src="dash3.JPEG" alt="Dashboard" style="vertical-align: middle;"/> 
-
-## Project Overview
+# <img src="dash3.JPEG" alt="Dashboard" width="40" style="vertical-align: middle;"/> Project Overview
 
 In this project, we are creating five choropleth maps that represent the following datasets for each state in India:
-- Air Quality
-- Safe Drinking Water
-- Electricity Consumption
-- Population
-- Agricultural Land
+- **Air Quality**
+- **Safe Drinking Water**
+- **Electricity Consumption**
+- **Population**
+- **Agricultural Land**
 
-These maps aim to provide common people with early access to local information, enabling better decision-making, identifying needs and opportunities, and simplifying communication within communities.
+These maps aim to provide early access to local information, enabling better decision-making, identifying needs and opportunities, and facilitating communication within communities.
 
 ## Technologies Used
 
@@ -22,31 +20,32 @@ These maps aim to provide common people with early access to local information, 
 - **Libraries**: Matplotlib, Folium, Pandas
 - **Web Framework**: Streamlit
 
-# Project Maps
+## Project Maps
 
-<table>
-    <tr>
-        <td>
-            <img src="Agri.JPEG" alt="Agricultural Land" style="vertical-align: middle; width: 100%; max-width: 300px;"/>
-            <p>Agricultural Land</p>
-        </td>
-        <td>
-            <img src="elect.JPEG" alt="Electricity Consumption" style="vertical-align: middle; width: 100%; max-width: 300px;"/>
-            <p>Electricity Consumption</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="popu.JPEG" alt="Population" style="vertical-align: middle; width: 100%; max-width: 300px;"/>
-            <p>Population</p>
-        </td>
-        <td>
-            <img src="safe_drink.JPEG" alt="Safe Drinking Water" style="vertical-align: middle; width: 100%; max-width: 300px;"/>
-            <p>Safe Drinking Water</p>
-        </td>
-    </tr>
-</table>
-
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img src="Agri.JPEG" alt="Agricultural Land" width="250"/>
+                <p><strong>Agricultural Land</strong></p>
+            </td>
+            <td align="center">
+                <img src="elect.JPEG" alt="Electricity Consumption" width="250"/>
+                <p><strong>Electricity Consumption</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="popu.JPEG" alt="Population" width="250"/>
+                <p><strong>Population</strong></p>
+            </td>
+            <td align="center">
+                <img src="safe_drink.JPEG" alt="Safe Drinking Water" width="250"/>
+                <p><strong>Safe Drinking Water</strong></p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## Features
 
@@ -55,12 +54,12 @@ These maps aim to provide common people with early access to local information, 
 
 ## Challenges
 
-One of the significant challenges we face is accessing reliable datasets for the various metrics we aim to map. 
+One of the significant challenges we face is accessing reliable datasets for the various metrics we aim to map.
 
 ## Team Members
 
-The project is developed by Team Kaizen, consisting of:
-- Devansh 
+The project is developed by **Team Kaizen**, consisting of:
+- Devansh
 - Rashmin
 - Meenal
 - Aman
