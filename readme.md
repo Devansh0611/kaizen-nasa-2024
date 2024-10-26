@@ -2,7 +2,7 @@
 ### the working prototype is app7v2.py
 **UrbanSphere** is a project developed for a hackathon that focuses on mapping community assets in India to foster engagement and sustainable growth. Our primary goal is to visualize critical data related to environmental and community resources through interactive choropleth maps.
 
-# <img src="dash3.JPEG" alt="Dashboard" width="40" style="vertical-align: middle;"/> Project Overview
+<img src="dash3.jpeg" alt="Dashboard" width="40" style="vertical-align: middle;"/> Project Overview
 
 In this project, we are creating five choropleth maps that represent the following datasets for each state in India:
 - **Air Quality**
@@ -26,21 +26,21 @@ These maps aim to provide early access to local information, enabling better dec
     <table>
         <tr>
             <td align="center">
-                <img src="Agri.JPEG" alt="Agricultural Land" width="250"/>
+                <img src="Agri.jpeg" alt="Agricultural Land" width="250"/>
                 <p><strong>Agricultural Land</strong></p>
             </td>
             <td align="center">
-                <img src="elect.JPEG" alt="Electricity Consumption" width="250"/>
+                <img src="elect.jpeg" alt="Electricity Consumption" width="250"/>
                 <p><strong>Electricity Consumption</strong></p>
             </td>
         </tr>
         <tr>
             <td align="center">
-                <img src="popu.JPEG" alt="Population" width="250"/>
+                <img src="popu.jpeg" alt="Population" width="250"/>
                 <p><strong>Population</strong></p>
             </td>
             <td align="center">
-                <img src="safe_drink.JPEG" alt="Safe Drinking Water" width="250"/>
+                <img src="safe_drink.jpeg" alt="Safe Drinking Water" width="250"/>
                 <p><strong>Safe Drinking Water</strong></p>
             </td>
         </tr>
