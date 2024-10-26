@@ -4,7 +4,7 @@
 
 <img src="dash3.jpeg" alt="Dashboard" style="vertical-align: middle;"/>
 
-##Project Overview
+## Project Overview
 In this project, we are creating five choropleth maps that represent the following datasets for each state in India:
 - **Air Quality**
 - **Safe Drinking Water**
